@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ssupt.audio-control",
+    "url": "https://github.com/ssupt/omarchy-audio-control.git",
+    "commit": "98d2dc643293fc3ad269dfff3e97bf536e272cbd",
+    "enabled": true
+  },
+  {
+    "id": "io.github.dragosol.better-displays-pro",
+    "url": "https://github.com/dragosol/omarchy-better-displays.git",
+    "commit": "dd591bd050745a6787c211c58ef4e9af040e4fa6",
+    "enabled": true
+  },
+  {
+    "id": "io.github.nousd.chime",
+    "url": "https://github.com/nousd/chime.git",
+    "commit": "969582a65db3b85a4fe13aaec18d90e979238f08",
+    "enabled": true
+  },
+  {
+    "id": "settings-sync",
+    "url": "https://github.com/isaactopo/omarchy-settings-sync.git",
+    "commit": "58d0704c9549a733c8c70ddde7165f2e7fb46445",
+    "enabled": true
+  },
+  {
+    "id": "dielerorn.system-sounds",
+    "url": "https://github.com/Dielerorn/omarchy-system-sounds.git",
+    "commit": "ab4b1ed6e622682b122940ca74a2abcfa381facf",
+    "enabled": true
+  }
+]
