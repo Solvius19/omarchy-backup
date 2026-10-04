@@ -3,7 +3,7 @@
 Managed by the **settings-sync** Omarchy plugin. Do not edit by hand —
 run `settings-sync-ctl backup --push` on your machine instead.
 
-- Date: 2026-10-03T20:05:26Z
+- Date: 2026-10-04T18:10:50Z
 - Host: omarchy
 - Theme: Vantablack
 - Third-party plugins: 5
