@@ -18,6 +18,12 @@
     "enabled": true
   },
   {
+    "id": "io.github.feartheploto.musica",
+    "url": "https://github.com/FearThePLOTO/Musica.git",
+    "commit": "0a6de22052e5304a9ef44a381f9abb2532e940cb",
+    "enabled": false
+  },
+  {
     "id": "settings-sync",
     "url": "https://github.com/isaactopo/omarchy-settings-sync.git",
     "commit": "58d0704c9549a733c8c70ddde7165f2e7fb46445",

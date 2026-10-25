@@ -3,18 +3,19 @@
 Managed by the **settings-sync** Omarchy plugin. Do not edit by hand —
 run `settings-sync-ctl backup --push` on your machine instead.
 
-- Date: 2026-10-04T18:10:50Z
+- Date: 2026-10-25T08:00:19Z
 - Host: omarchy
 - Theme: Vantablack
-- Third-party plugins: 5
+- Third-party plugins: 6
 
-## Plugins (5)
+## Plugins (6)
 
 | Plugin | State | Source |
 |---|---|---|
 | `ssupt.audio-control` | enabled | https://github.com/ssupt/omarchy-audio-control.git @ 98d2dc64 |
 | `io.github.dragosol.better-displays-pro` | enabled | https://github.com/dragosol/omarchy-better-displays.git @ dd591bd0 |
 | `io.github.nousd.chime` | enabled | https://github.com/nousd/chime.git @ 969582a6 |
+| `io.github.feartheploto.musica` | disabled | https://github.com/FearThePLOTO/Musica.git @ 0a6de220 |
 | `settings-sync` | enabled | https://github.com/isaactopo/omarchy-settings-sync.git @ 58d0704c |
 | `dielerorn.system-sounds` | enabled | https://github.com/Dielerorn/omarchy-system-sounds.git @ ab4b1ed6 |
 
